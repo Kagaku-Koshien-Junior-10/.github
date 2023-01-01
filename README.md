@@ -1,2 +1,2 @@
 # Kagaku-Koshien-Junior-10
-About this organization
+第十回科学の甲子園ジュニアプログラミングサークルのプログラム管理を便利にするつもりで作ったorganizationです。
